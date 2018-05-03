@@ -1,7 +1,7 @@
 ---
 title: "title"
 date: 2018-05-03
----
+
 
 author: ddtsatan
 email: ddtsatan@gmail.com
@@ -17,3 +17,5 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
